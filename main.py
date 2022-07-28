@@ -1,7 +1,8 @@
 import os
 
+def wypiszCos(text):
+    print(text)
 
-
-os.system('echo "siemandero kolezko"')
-
+if __name__ == "__main__":
+    wypiszCos("siemander kozaku")
 
