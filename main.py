@@ -1,5 +1,7 @@
 import os
 
-os.system('ls')
 
-print(__name__)
+
+os.system('echo "siemandero kolezko"')
+
+
